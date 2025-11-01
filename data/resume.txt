@@ -1,0 +1,182 @@
+# Summary
+Experienced AI & Software Engineer with 6+ years designing and deploying LLMs, RAG pipelines, NLP applications, and scalable software systems. Skilled in full-stack development, cloud deployment, and AI integration for enterprise solutions. Focused on delivering high-quality AI-powered applications with measurable impact.
+
+# Professional Experiences
+
+## Senior AI Engineer — [NeuraTech Solutions] (Jan 2023 – Present)
+* Objective:
+Lead AI projects, specializing in LLMs, RAG pipelines, and intelligent automation for enterprise applications.
+* Responsibilities & Achievements:
+- Architected a multilingual RAG-based knowledge assistant integrating GPT-style LLMs, achieving 90% accuracy in retrieving relevant responses from internal knowledge bases.  
+- Developed and deployed microservices for LLM pipelines using Docker and Kubernetes, enabling scalable AI inference in production.  
+- Integrated LLM outputs into enterprise platforms to provide recommendations, insights, and automated summarization, increasing operational efficiency by 30%.  
+- Mentored 5 junior engineers on model optimization, prompt engineering, and LLM deployment best practices.  
+* Technologies / Skills:
+Python, PyTorch, HuggingFace Transformers, LangChain, FAISS, Docker, Kubernetes, REST APIs, NLP, RAG, Prompt Engineering
+
+## AI Research Engineer — [CognitiveAI Labs] (Jun 2021 – Dec 2022)
+* Objective:
+Build predictive and generative AI solutions for healthcare and finance domains.
+* Responsibilities & Achievements:
+- Designed and deployed LLM-based summarization and question-answering pipelines for internal reports and knowledge management.  
+- Developed predictive ML models for healthcare risk scoring with ensemble methods, achieving 85% recall and 88% precision.  
+- Automated preprocessing pipelines for structured and unstructured data, reducing manual cleaning by 50%.  
+- Implemented cloud-hosted APIs to serve models with real-time monitoring and logging.  
+* Technologies / Skills:
+Python, scikit-learn, PyTorch, HuggingFace Transformers, Streamlit, SQL, AWS, RAG Pipelines
+
+## Software Engineer — [CloudWave Technologies] (Jan 2019 – May 2021)
+* Objective:
+Integrate AI/ML models into full-stack web applications and deploy production-ready systems.  
+* Responsibilities & Achievements:
+- Built real-time analytics dashboards with interactive visualizations and anomaly detection.  
+- Designed microservices for LLM and ML integration in web platforms.  
+- Collaborated with data science teams to deploy LLM-based features via APIs.  
+- Improved query performance and system latency by 40% through optimization and caching.  
+* Technologies / Skills:
+Python, JavaScript, React, Node.js, Docker, AWS, REST APIs, Microservices, FAISS
+
+## Junior AI Developer — [NextGen Labs] (Jun 2017 – Dec 2018)
+* Objective:
+Support AI development and software engineering projects.  
+* Responsibilities & Achievements:
+- Assisted in building ML models for recommendations, classification, and small-scale NLP tasks.  
+- Automated data pipelines for preprocessing and feature engineering.  
+- Developed lightweight web applications to visualize model outputs.  
+* Technologies / Skills:
+Python, scikit-learn, pandas, Git, Agile, SQL, NLP
+
+# Projects
+
+## Project 1: Enterprise Knowledge Assistant (Feb 2023 – Oct 2023)
+* Objective:
+Build an internal RAG-based chatbot using LLMs to answer employee queries.  
+* Key Features:
+- LLM-driven question-answering with top-k retrieved document chunks.  
+- Multi-turn conversation and context-aware summarization.  
+* Responsibilities / Role:
+- Developed retrieval pipelines using FAISS and embedding models.  
+- Built prompt templates and system instructions for GPT-style LLMs.  
+- Deployed backend APIs for seamless frontend integration.  
+* Results / Achievements:
+- Reduced internal query resolution time by 60%.  
+- Successfully handled 15,000+ queries/month.  
+* Technologies / Skills Used:
+Python, FAISS, HuggingFace Transformers, LangChain, Docker, REST APIs  
+* Current Status:
+Completed
+
+## Project 2: RAG Document Summarizer (Jul 2021 – Dec 2022)
+* Objective:
+Automate summarization of internal knowledge and research documents using LLMs.  
+* Key Features:
+- Hybrid RAG pipeline combining embeddings and LLM generative summarization.  
+- Batch and real-time summarization for internal dashboards.  
+* Responsibilities / Role:
+- Generated embeddings for documents and built FAISS index for retrieval.  
+- Integrated LLM-based summarization with Streamlit dashboard for analysts.  
+* Results / Achievements:
+- Reduced manual summarization effort by 70%.  
+- Improved report comprehension for analysts across departments.  
+* Technologies / Skills Used:
+Python, FAISS, HuggingFace Transformers, Streamlit, LangChain  
+* Current Status:
+Completed
+
+## Project 3: Chatbot for Customer Support (Mar 2020 – Nov 2020)
+* Objective:
+Deploy a GPT-based chatbot for enterprise customer support.  
+* Key Features:
+- Multi-turn conversation and sentiment-aware responses.  
+- Integration with CRM and support ticketing systems.  
+* Responsibilities / Role:
+- Implemented LLM response generation with prompt engineering for FAQs.  
+- Built backend API and integrated with chat interface.  
+* Results / Achievements:
+- Reduced support response time by 70% and improved first-contact resolution.  
+- Handled over 10,000 queries per month.  
+* Technologies / Skills Used:
+Python, HuggingFace Transformers, Flask, REST APIs, Docker, RAG  
+* Current Status:
+Completed
+
+## Project 4: LLM Text Summarization Pipeline (Jan 2022 – May 2022)
+* Objective:
+Generate concise summaries of long technical documents using RAG and LLMs.  
+* Key Features:
+- Embedding-based retrieval of relevant paragraphs.  
+- GPT-based abstractive summarization of retrieved content.  
+* Responsibilities / Role:
+- Built FAISS index for document chunks.  
+- Designed prompt templates and orchestrated pipeline with LangChain.  
+* Results / Achievements:
+- Reduced document review time by 60%.  
+- Summaries maintained high fidelity to source content.  
+* Technologies / Skills Used:
+Python, FAISS, HuggingFace Transformers, LangChain, NLTK  
+* Current Status:
+Completed
+
+## Project 5: Personalized Recommendation System (Jun 2020 – Dec 2020)
+* Objective:
+Deliver AI-driven product recommendations with hybrid ML and LLM integration.  
+* Key Features:
+- Combined collaborative filtering and embeddings-based LLM contextual recommendations.  
+- Real-time recommendation ranking.  
+* Responsibilities / Role:
+- Trained embedding models and integrated with recommendation pipeline.  
+- Optimized inference for low-latency predictions.  
+* Results / Achievements:
+- Increased engagement by 30% and conversions by 15%.  
+* Technologies / Skills Used:
+Python, scikit-learn, FAISS, HuggingFace Transformers, Flask  
+* Current Status:
+Completed
+
+## Project 6: LLM-based Automated Code Review (Mar 2019 – Sep 2019)
+* Objective:
+Automate code quality feedback using LLMs.  
+* Key Features:
+- LLM-driven suggestions for bug detection, refactoring, and code style.  
+* Responsibilities / Role:
+- Integrated LLM with GitHub workflow to provide PR feedback.  
+- Built evaluation metrics to verify suggestions.  
+* Results / Achievements:
+- Reduced review time by 50%.  
+- Improved code quality and maintainability.  
+* Technologies / Skills Used:
+Python, GitHub API, HuggingFace Transformers, CI/CD pipelines  
+* Current Status:
+Completed
+
+## Project 7: Sentiment Analysis Dashboard (Oct 2018 – Feb 2019)
+* Objective:
+Analyze social media sentiment using NLP and embeddings.  
+* Key Features:
+- Sentiment scoring, clustering, and trend visualization.  
+* Responsibilities / Role:
+- Preprocessed social media datasets and applied NLP pipelines.  
+- Developed interactive dashboards for marketing insights.  
+* Results / Achievements:
+- Improved campaign targeting efficiency and decision-making.  
+* Technologies / Skills Used:
+Python, NLTK, pandas, Matplotlib, FAISS  
+* Current Status:
+Completed
+
+## Project 8: ML/LLM Deployment Pipeline (Jan 2021 – Jun 2021)
+* Objective:
+Automate deployment of ML and LLM pipelines to production.  
+* Key Features:
+- CI/CD pipelines with versioning and monitoring.  
+- LLM inference APIs with logging and alerting.  
+* Responsibilities / Role:
+- Built automated training, testing, and deployment workflows.  
+- Integrated monitoring and rollback mechanisms.  
+* Results / Achievements:
+- Reduced deployment time from days to hours.  
+- Increased reliability and reproducibility of models in production.  
+* Technologies / Skills Used:
+Python, Docker, Kubernetes, HuggingFace Transformers, GitHub Actions  
+* Current Status:
+Completed
